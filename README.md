@@ -1,0 +1,2 @@
+# Adriel
+Minha.cfg
